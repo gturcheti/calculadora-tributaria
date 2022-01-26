@@ -1,5 +1,7 @@
+import CalculaINSS
+
 fun main () {
 
-    testaSimples()
+ testaSimples()
 
 }
